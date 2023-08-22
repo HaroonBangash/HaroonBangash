@@ -1,16 +1,17 @@
-### Hi there 👋
+### **Hi there 👋 I am Haroon Bangash**
 
-<!--
-**HaroonBangash/HaroonBangash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+They call data the new oil, and I'm on a mission to strike it rich – not as a Sheikh, but as a modern-day data virtuoso. With algorithms as my compass and databases as my treasure troves, I'm here to prove that while I may not own deserts, I sure know how to make data oasis bloom. Join me in this adventure, where we turn raw data into polished gems, and where insights flow more abundantly than the finest crude.
+
+
+
+- 🌍 I am currently living in Rawalpindi, Pakistan.
+- 🧠 I’m currently learning SQL.
+- 🤝 I’m looking to collaborate on data analysis, visualization, machine learning, computer vision and AI projects.
+- 🤔 Currently enrolled in various courses on coursera, datacamp, kaggle. 
+- 💬 Ask me about data science or either guide me.
+- 📫 How to reach me haroonbangash98@gmail.com
+- 😄 Pronouns: if/else
+- ⚡ Fun fact:  I once debugged a code so long that I started seeing semicolons in my dreams! 
+
