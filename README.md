@@ -7,7 +7,7 @@ They call data the new oil, and I'm on a mission to strike it rich – not as a 
 
 
 - 🌍 I am currently living in Rawalpindi, Pakistan.
-- 🧠 I’m currently learning SQL.
+- 🧠 I’m currently learning SQL and Power BI.
 - 🤝 I’m looking to collaborate on data analysis, visualization, machine learning, computer vision and AI projects.
 - 🤔 Currently enrolled in various courses on coursera, datacamp, kaggle. 
 - 💬 Ask me about data science or either guide me.
