@@ -56,7 +56,7 @@ They call data the new oil, and I'm on a mission to strike it rich – not as a 
 
 <!-- Tableau -->
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="100" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="120" height="40"/> 
 </a>
 
 
