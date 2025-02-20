@@ -5,7 +5,9 @@
 They call data the new oil, and I'm on a mission to strike it rich – not as a Sheikh, but as a modern-day data virtuoso. With algorithms as my compass and databases as my treasure troves, I'm here to prove that while I may not own deserts, I sure know how to make data oasis bloom. Join me in this adventure, where we turn raw data into polished gems, and where insights flow more abundantly than the finest crude.
 
 
+I am currently working as a Research AI Engineer, where I focus on implementing Reinforcement Learning algorithms to replace classical controllers with intelligent RL agents. My work primarily involves developing and optimizing Obstacle Avoidance and Path Planning algorithms in both 2D and 3D environments, successfully deploying RL agents using MATLAB. This experience has deepened my understanding of control systems, robotics, and the practical applications of AI in solving complex engineering challenges.
 
+  
 - 🌍 I am currently living in Rawalpindi, Pakistan.
 - 🧠 I’m currently learning SQL and Power BI.
 - 🤝 I’m looking to collaborate on data analysis, visualization, machine learning, computer vision and AI projects.
