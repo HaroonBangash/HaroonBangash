@@ -65,11 +65,6 @@ I am currently working as a Research AI Engineer, where I focus on implementing 
 
 
 
-<!-- Matplotlib -->
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="100" height="40"/> 
-</a>
-
 <!-- Seaborn -->
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="100" height="40"/> 
