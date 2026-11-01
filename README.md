@@ -18,11 +18,6 @@ I am currently working as a Research AI Engineer, where I focus on implementing 
 - ⚡ Fun fact:  I once debugged a code so long that I started seeing semicolons in my dreams! 
 
 
-## My Portfolio
-<!-- DataCamp -->
-<a href="https://www.datacamp.com/portfolio/haroonbangash98" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.brandfetch.io/idou89mSUh/w/400/h/400/theme/dark/icon.jpeg?c=1bx1742731126814id64Mup7aczs_kaLjJ&t=1680282023371" alt="datacamp" width="40" height="40"/> 
-</a>
 
 ## Favourite Languages & Tools
 <p align="left">
